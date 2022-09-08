@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=66d8efeb_002Dac0d_002D4f57_002D9389_002Dbc1cb3a666c7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Max_WhenCalled_ReturnMaxNumberOrEqualityNumber" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::6F481171-A99C-4316-9E70-93794AAEFDFF::net6.0::TestNinjaLab.UnitTest.Fundamentals.Test.MathTests.Max_WhenCalled_ReturnMaxNumberOrEqualityNumber&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6F481171-A99C-4316-9E70-93794AAEFDFF::net6.0::TestNinjaLab.UnitTest.Fundamentals.Test.MathTests.GetOddNumber_WhenCalled_ReturnOddNumberUntilLimitValueWithLimitValue&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6F481171-A99C-4316-9E70-93794AAEFDFF::net6.0::TestNinjaLab.UnitTest.Fundamentals.Test.ReservationTests.CanBeCancelledBy_IsUserAdmin_ReturnTrue&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6F481171-A99C-4316-9E70-93794AAEFDFF::net6.0::TestNinjaLab.UnitTest.Fundamentals.Test.ReservationTests.CanBeCanceledBy_IsUserMadeBy_ReturnTrue&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6F481171-A99C-4316-9E70-93794AAEFDFF::net6.0::TestNinjaLab.UnitTest.Fundamentals.Test.ReservationTests.CanBeCanceledBy_IsUserNotAdmin_ReturnFalse&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6F481171-A99C-4316-9E70-93794AAEFDFF::net6.0::TestNinjaLab.UnitTest.Fundamentals.Test.ReservationTests.CanBeCanceledBy_IsUserNotMadeBy_ReturnFalse&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
